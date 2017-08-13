@@ -1,4 +1,4 @@
-# Data formats
+# Data formats for `linear-track`
 
 ## trajectory.videoPositionTracking
 Binary file with header:
